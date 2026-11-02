@@ -1,0 +1,13 @@
+# Dados de acesso ao banco (não publicar)
+db.properties
+
+# Maven / NetBeans
+target/
+build/
+dist/
+nbproject/private/
+nb-configuration.xml
+
+# Java
+*.class
+*.log
